@@ -1,15 +1,15 @@
 {
-  "name": "AlignItCam",
+  "name": "CageCam",
   "short_name": "AIC",
   "description": "web application for controlling esp32 camera",
-  "scope": "/alignItCam/",
-  "start_url": "/alignItCam/",
+  "scope": "/CageCam/",
+  "start_url": "/CageCam/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/alignItCam/img/icon.png",
+        "src": "/CageCam/img/icon.png",
         "type": "image/png",
         "sizes": "700x700"
       }
