@@ -1,6 +1,6 @@
 var GHPATH = '/CageCam';
 var APP_PREFIX = 'aic_';
-var VERSION = 'version_000';
+var VERSION = 'version_001';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,

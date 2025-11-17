@@ -1,6 +1,6 @@
 {
   "name": "CageCam",
-  "short_name": "AIC",
+  "short_name": "CC",
   "description": "web application for controlling esp32 camera",
   "scope": "/CageCam/",
   "start_url": "/CageCam/",
