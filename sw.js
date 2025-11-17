@@ -1,4 +1,4 @@
-var GHPATH = '/alignItCam';
+var GHPATH = '/CageCam';
 var APP_PREFIX = 'aic_';
 var VERSION = 'version_000';
 var URLS = [    

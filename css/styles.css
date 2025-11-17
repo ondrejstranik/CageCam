@@ -20,3 +20,12 @@ p {
 a {
     color: #369;
 }
+
+button {
+  padding: 10px 16px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+#wifi-info, #success-info { display: none; margin-top: 30px; }
+#loading { display: none; font-style: italic; color: #555; }
