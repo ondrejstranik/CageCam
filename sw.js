@@ -1,12 +1,13 @@
 var GHPATH = '/CageCam';
 var APP_PREFIX = 'cc_';
-var VERSION = 'version_05';
+var VERSION = 'version_06';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
   `${GHPATH}/css/styles.css`,
   `${GHPATH}/img/icon.png`,
-  `${GHPATH}/js/app.js`
+  `${GHPATH}/js/app.js`,
+   `${GHPATH}/sw.js` 
 ]
 
 var CACHE_NAME = APP_PREFIX + VERSION
